@@ -47,4 +47,17 @@ onMounted(() => {
 .v-main {
   background-color: #e3f2fd;
 }
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 0.6rem;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #e3f2fd;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1867c0;
+}
 </style>
