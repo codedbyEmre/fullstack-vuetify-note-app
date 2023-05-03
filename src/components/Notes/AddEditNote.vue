@@ -9,6 +9,7 @@
           ref="textareaRef"
           variant="solo"
           :placeholder="placeholder"
+          aria-label="text area"
           hide-details
           v-autofocus
         ></v-textarea>
