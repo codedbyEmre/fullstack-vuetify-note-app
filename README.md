@@ -6,8 +6,8 @@ Composition Api
 Vue Router 4
 Vuetify 3
 Pinia
-Firebase 9
 Vite
+Firebase 9
 ```
 
 ## Project setup
