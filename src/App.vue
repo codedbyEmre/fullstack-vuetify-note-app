@@ -59,5 +59,6 @@ onMounted(() => {
 
 ::-webkit-scrollbar-thumb {
   background: #1867c0;
+  border-radius: 1rem;
 }
 </style>
