@@ -25,6 +25,26 @@ appId
 
 -In the root, rename `.env.sample` to `.env`
 
+## Application Snapshots
+
+![1](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/e0e19ae5-5842-455a-809c-4dfde6ab3970)
+
+![2](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/c61df065-dfc6-436a-966c-d224b5c099d5)
+
+![3](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/070e2996-c0c2-4e92-9b62-4d58b3911d68)
+
+![4](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/945c7877-6fb9-4320-b7f8-1af8a4759a6c)
+
+![5](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/7b84c051-814e-496e-aeca-47be9061952e)
+
+![6](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/eb4db849-1292-4d8b-9a3a-ec77f26a4995)
+
+![7](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/79f5ce83-fa77-4a6f-9853-d16ad82c62f6)
+
+![8](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/61156965-c2aa-4efe-9661-bdd7ab1dd7a5)
+
+![9](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/1a47fa32-d343-4574-ac29-4c2516791cfd)
+
 ### Install dependencies
 
 ```
