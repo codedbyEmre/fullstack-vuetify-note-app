@@ -43,7 +43,7 @@ appId
 
 ![8](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/61156965-c2aa-4efe-9661-bdd7ab1dd7a5)
 
-![9](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/1a47fa32-d343-4574-ac29-4c2516791cfd)
+![9](https://github.com/codedbyEmre/fullstack-vuetify-note-app/assets/67799995/bcce477b-dcca-40f3-9d4a-7b03bbd7a3ec)
 
 ### Install dependencies
 
