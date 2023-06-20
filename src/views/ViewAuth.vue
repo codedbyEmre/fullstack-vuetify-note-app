@@ -1,8 +1,7 @@
 <template>
   <div class="auth">
     <v-tabs color="primary" align-tabs="center">
-      <v-tab @click="changeTab(false)">Login</v-tab>
-      <v-tab @click="changeTab(true)">Register</v-tab>
+      <v-tab v-for="tab in tabValues" :key="tab" @click="changeTab(tab.value)">{{ tab.title }}</v-tab>
     </v-tabs>
     <v-divider />
 
@@ -72,6 +71,10 @@ import { useStoreAuth } from '@/stores/storeAuth';
 const storeNotes = useStoreNotes();
 const storeAuth = useStoreAuth();
 
+const tabValues = ref([
+  { title: 'Login', value: false },
+  { title: 'Register', value: true }
+]);
 const visible = ref(false);
 const confirmVisible = ref(false);
 const register = ref(false);
