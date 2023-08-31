@@ -87,3 +87,8 @@ pnpm build
 ### Customize configuration
 
 See [Configuration Reference](https://vitejs.dev/config/).
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br> This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
+
